@@ -1,5 +1,5 @@
 # Docker Pull Command
-``` bash
+``` javascript
 # docker pull nginx
 ```
 
