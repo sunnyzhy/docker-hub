@@ -1,0 +1,6 @@
+Docker Pull Command
+docker pull nginx
+
+Dockerfile
+FROM nginx
+COPY static-html-directory /usr/share/nginx/html
